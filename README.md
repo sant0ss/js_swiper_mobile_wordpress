@@ -13,8 +13,10 @@ Call the Function: Call the setupSwiper(selector) function, passing the class se
 Example:
 
 javascript
+```bash
 Copy code
 setupSwiper('your-class');
+```
 
 Replace 'your-class' with the class name of the HTML element where you want the Swiper to be initialized.
 
