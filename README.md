@@ -14,7 +14,6 @@ Example:
 
 javascript
 ```bash
-Copy code
 setupSwiper('your-class');
 ```
 
